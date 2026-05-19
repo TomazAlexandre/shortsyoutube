@@ -1,0 +1,158 @@
+{
+  "geral": [
+    {
+      "id": "geral_ch1_0",
+      "name": "NexisCortes",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\geral_ch1_0_NexisCortes-png.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "geral",
+      "youtube_name": "NexisCortes",
+      "thumbnail": "https://yt3.ggpht.com/7-7vo06IAHNULmz1ITBfkycLU4rnPntgBi-gm8DzjJyZGnd4LTQfL0vFyMUGCKfKy-OdEnrRlOk=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "geral_ch2_0",
+      "name": "CortesNow",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\geral_ch2_0_cortesnow-png.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "geral",
+      "youtube_name": "CortesNow",
+      "thumbnail": "https://yt3.ggpht.com/Z5AFUYeiUwqSOoqGyijMFbuXzNzZHWX3zM_6moqq0qPlx8TNi1LujYA6M9hD-YF_Xc3IsF_o1w=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "geral_ch3_0",
+      "name": "CortesTurbo",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\geral_ch3_0_cortesturbo-png.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "geral",
+      "youtube_name": "CortesTurbo",
+      "thumbnail": "https://yt3.ggpht.com/kFDMQuiPcl5Ur6laMrhfrNpAje_qLuOw3MpU2Y-mPCygwLxe1u_xGLQqzzQB4fROXDpwwKuD8B4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "geral_ch4_0",
+      "name": "Shorts Fade",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\geral_ch4_0_shortfade-png.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "geral",
+      "youtube_name": "Shorts Fade",
+      "thumbnail": "https://yt3.ggpht.com/T3pos_6VtJWFyI_VOEGHogccBcNKYb2ebJc8JUMRYFJ6GXnN4QYAmrzbKIcrGI7P-bmQRKey=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "geral_ch5_0",
+      "name": "Shorts Blast",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\geral_ch5_0_shortblast-png.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "geral",
+      "youtube_name": "Shorts Blast",
+      "thumbnail": "https://yt3.ggpht.com/SHAWe3p37L3ARGW7CjOsWTFsmWSkOoPlCr8V84vvh05Nh1k6nyXLnFr2-bTzIQJAc3Wpqx3O8g=s88-c-k-c0x00ffffff-no-rj"
+    }
+  ],
+  "games": [
+    {
+      "id": "games_ch1_0",
+      "name": "XPShorts",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\games_ch1_0_ChatGPT Image 17 de abr. de 2026, 19_13_07.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "games",
+      "youtube_name": "XPShorts",
+      "thumbnail": "https://yt3.ggpht.com/u0Hi4jDTgVUE75-wf7qaW2iOvjuA5UHgrbWiDZrJFr0WuPU1rC_XochJNUktn9NSnTY4xItrjg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "games_ch2_0",
+      "name": "UltraGameCuts",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\games_ch2_0_ChatGPT Image 17 de abr. de 2026, 19_21_42.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "games",
+      "youtube_name": "UltraGameCuts",
+      "thumbnail": "https://yt3.ggpht.com/rqV2okunAR-wwg-2sFXHS7GPQbseYkwPxK9sgnsqweTsbAimn8ZZV_8XRnPHgdPWzTtmcNMA8w=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "games_ch3_0",
+      "name": "RushPlay",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\games_ch3_0_ChatGPT Image 17 de abr. de 2026, 19_28_29.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "games",
+      "youtube_name": "RushPlay",
+      "thumbnail": "https://yt3.ggpht.com/alYcSpJj91sIOQVnTnN-SuAVi6P6KVOkJL7JY9_1W2mhSK6Syld7ILllnfpKX2LbaSoTypfU=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "games_ch4_0",
+      "name": "BossFight Short",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\games_ch4_0_ChatGPT Image 17 de abr. de 2026, 19_35_32.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "games",
+      "youtube_name": "BossFight Short",
+      "thumbnail": "https://yt3.ggpht.com/bSvKBstVPwGdJld10b7NbLY2VsA0rbfSpdYd3BH8etnqXJD6Y_W1NbrqVd-QPhlsLrPguA2Z=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "games_ch5_0",
+      "name": "Tomaz Malfoy Games",
+      "logo_path": "",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "games",
+      "youtube_name": "Tomaz Malfoy Games",
+      "thumbnail": "https://yt3.ggpht.com/xg8OFxHDwOBv39Q0J-jmh7Bx9xcpGu68a-lM56FGi27l-aQEti8-2kwfLlZZAX_1vLEMLlIh=s88-c-k-c0x00ffffff-no-rj"
+    }
+  ],
+  "futebol": [
+    {
+      "id": "futebol_ch1_0",
+      "name": "Resenha Gol",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\futebol_ch1_0_ResenhaGol.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "futebol",
+      "youtube_name": "Resenha Gol",
+      "thumbnail": "https://yt3.ggpht.com/SQpIkD7a5zBJifWqGrcklCCqNDMsdxxOszMfCorzTSsHhyXizaSKEwDcRm5VgWqKNiI5YcBWNw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "futebol_ch2_0",
+      "name": "GolCortes",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\futebol_ch2_0_GolCortes.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "futebol",
+      "youtube_name": "GolCortes",
+      "thumbnail": "https://yt3.ggpht.com/pVAnPWVac3D27aThxJcuhrcklFVXwu2X_1hbAiIJf3obNLBfVHIcK_ab7pVWWB6zDQZL2dKi=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "futebol_ch3_0",
+      "name": "CortesVAR",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\futebol_ch3_0_CortesVar.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "futebol",
+      "youtube_name": "CortesVAR",
+      "thumbnail": "https://yt3.ggpht.com/M1aYPmiRKuCxe3jmk0MvRrV5bYnMAn6tRn_k7CGXkoi53I3s9OLjOWnFeNed3XYC1MVIajihcw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "futebol_ch4_0",
+      "name": "FutBolaShorts",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\futebol_ch4_0_FutbolaShorts.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "futebol",
+      "youtube_name": "FutBolaShorts",
+      "thumbnail": "https://yt3.ggpht.com/LB_pkU3enS5HyJC6JvZkIo1qpm0KAr4aeXN2dxBwUwLCl4xxq8ixMZ_Nm0MItUA4KTqKxLWC=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "futebol_ch5_0",
+      "name": "ExtraTimeCuts",
+      "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\futebol_ch5_0_ExtraTimeCuts.png",
+      "authenticated": true,
+      "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+      "niche": "futebol",
+      "youtube_name": "ExtraTimeCuts",
+      "thumbnail": "https://yt3.ggpht.com/jMyGd3gMnOQSqbSpUXYwC8awvwrsjGsu1dkEPiv_7Pk0WjFkUeZ6nGnagYgjucFCNBBgXsM3CQ=s88-c-k-c0x00ffffff-no-rj"
+    }
+  ]
+}

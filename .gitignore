@@ -1,0 +1,41 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and env files
+.env
+env/
+.venv/
+venv/
+
+# Log files
+*.log
+
+# Local IDE/editor settings
+.vscode/
+.idea/
+
+# Local secrets, tokens and cookies
+client_secrets.json
+youtube_cookies.txt
+yt_tokens/
+channel_logos/
+musicas/
+
+# Local runtime/state files
+autopilot_config.json
+autopilot_history.json
+autopilot_results.json
+scheduler_state.json
+upload_queue.json
+recover_queue.json
+recover_queue2.json
+
+# Generated output, vídeos e arquivos temporários
+output_shorts/
+*.part
+
+# Ignore system files
+.DS_Store
+Thumbs.db

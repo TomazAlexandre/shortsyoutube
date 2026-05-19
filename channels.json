@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ch_1",
+    "name": "NexisCortes",
+    "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\ch_1_NexisCortes-png.png",
+    "authenticated": true,
+    "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+    "youtube_name": "NexisCortes",
+    "thumbnail": "https://yt3.ggpht.com/7-7vo06IAHNULmz1ITBfkycLU4rnPntgBi-gm8DzjJyZGnd4LTQfL0vFyMUGCKfKy-OdEnrRlOk=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "ch_2",
+    "name": "CortesNow",
+    "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\ch_2_cortesnow-png.png",
+    "authenticated": true,
+    "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+    "youtube_name": "CortesNow",
+    "thumbnail": "https://yt3.ggpht.com/Z5AFUYeiUwqSOoqGyijMFbuXzNzZHWX3zM_6moqq0qPlx8TNi1LujYA6M9hD-YF_Xc3IsF_o1w=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "ch_3",
+    "name": "CortesTurbo",
+    "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\ch_3_cortesturbo-png.png",
+    "authenticated": true,
+    "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+    "youtube_name": "CortesTurbo",
+    "thumbnail": "https://yt3.ggpht.com/kFDMQuiPcl5Ur6laMrhfrNpAje_qLuOw3MpU2Y-mPCygwLxe1u_xGLQqzzQB4fROXDpwwKuD8B4=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "ch_4",
+    "name": "Shorts Fade",
+    "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\ch_4_shortfade-png.png",
+    "authenticated": true,
+    "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+    "youtube_name": "Shorts Fade",
+    "thumbnail": "https://yt3.ggpht.com/T3pos_6VtJWFyI_VOEGHogccBcNKYb2ebJc8JUMRYFJ6GXnN4QYAmrzbKIcrGI7P-bmQRKey=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "ch_5",
+    "name": "Shorts Blast",
+    "logo_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\channel_logos\\ch_5_shortblast-png.png",
+    "authenticated": true,
+    "secrets_path": "C:\\Users\\Tomaz Malfoy\\Documents\\shortyoutube\\client_secrets.json",
+    "youtube_name": "Shorts Blast",
+    "thumbnail": "https://yt3.ggpht.com/SHAWe3p37L3ARGW7CjOsWTFsmWSkOoPlCr8V84vvh05Nh1k6nyXLnFr2-bTzIQJAc3Wpqx3O8g=s88-c-k-c0x00ffffff-no-rj"
+  }
+]
