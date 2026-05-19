@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+core/_ffmpeg_bin/
+*.exe
 # Virtual environments and env files
 .env
 env/
