@@ -231,3 +231,13 @@ PIX: Malfoy.tomaz@gmail.com
 
 Toda contribuição ajuda a continuar evoluindo o projeto 🚀  
 Every contribution helps improve the project 🚀
+
+## Roadmap
+
+- [x] Video generation
+- [x] Subtitle automation
+- [x] YouTube upload
+- [ ] TikTok upload
+- [ ] Kwai upload
+- [ ] Web dashboard
+- [ ] AWS deployment
